@@ -12,6 +12,7 @@ projects:
       - src: jojoe77777/FormAPI/libFormAPI
         branch: master
         version: ^2.1.1
-      - src: cooldogedev/libSQL/libSQL
-        branch: "pm5"
+      - src: poggit/libasynql/libasynql
+        branch: master
+        version: ^4.2.3
 ...
