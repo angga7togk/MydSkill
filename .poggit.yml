@@ -14,5 +14,4 @@ projects:
         version: ^2.1.1
       - src: cooldogedev/libSQL/libSQL
         branch: "pm5"
-        version: ^0.2.6
 ...
