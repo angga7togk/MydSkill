@@ -1,0 +1,7 @@
+name: MydSkill
+main: angga7togk\mydskill\MydSkill
+api: 5.0.0
+version: 1.0.0
+author: Angga7Togk
+description: The ultimate RPG skills plugin for PocketMine-MP
+

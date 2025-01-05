@@ -1,0 +1,10 @@
+##################################
+#             MydSkill           #
+##################################
+
+# config version
+# !!!dont change this!!!!
+config-version: 1.0
+
+# language
+language: en_us
